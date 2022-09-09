@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS-Test", "SSIS-Test\SSIS-Test.dtproj", "{C0436581-7231-4CE4-8ED9-A487169A0D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0436581-7231-4CE4-8ED9-A487169A0D68}.Development|Default.ActiveCfg = Development
+		{C0436581-7231-4CE4-8ED9-A487169A0D68}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C0E5062-EDF2-478A-A6E9-A69224A869E0}
+	EndGlobalSection
+EndGlobal
